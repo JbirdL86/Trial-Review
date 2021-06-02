@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+  
+      background: rgb(91,119,149);
+      background: linear-gradient(90deg, rgba(91,119,149,0.5717592592592593) 22%, rgba(55,197,209,0.3657407407407407) 63%, rgba(0,212,255,0.2222222222222222) 99%);
+      
+    position: relative;
+  }
+  
+  #navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: grey;
+  }
+  
+  #navbar a {
+    text-decoration: none;
+      color: white;
+      font-size: 20px;
+      padding: 10px ;
+  }
+  
+  #welcome-section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    padding: 3rem 0rem;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 auto;
+    text-transform: uppercase;
+    color:black;
+  
+  }
+  
+  .project-display {
+    display: block;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 20px;
+    border-radius: 10%;
+  }
+  
+  .project-link{
+      font-size: 50px;
+      margin-bottom: 20px;
+      color:black;
+  }
+  
+  .img{
+      border:none;
+      margin-bottom: 20px;
+  }
+  
+  .img:hover{
+      border: solid gold;
+  }
+  
+  #projects {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .project-tile{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+  
+  }
+  
+  footer{
+      height: 20vh;
+      background-color: grey;
+      text-align: center;
+  
+  }
+  
+  .profile-link, #profile-link{
+      font-size: 20px;
+      color: white;
+      text-decoration: none;
+  
+  }
+  @media screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) {
+  }
+  
+  /* Portrait */
+  @media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait) {
+  }
+  
+  /* Landscape */
+  @media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape) {
+  }
