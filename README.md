@@ -4,7 +4,7 @@
 
 > Trial review is a project where we get to review a pull request of our own just to practice how to do reviews on a pull request.
 
-![screenshot](https://rawcdn.githack.com/JbirdL86/Hello-World/6b13fe40173fca2382ccd5af586136d93779e768/index.html)
+![screenshot](https://github.com/JbirdL86/Trial-Review/blob/new-branch/assets/demoweb.png)
 
 
 ## Built With
