@@ -2,7 +2,7 @@
 
 # Trial-Review
 
-> HEllo-Microverse is a project where we get to review a pull request of our own just to practice how to do reviews on a pull request.
+> Trial review is a project where we get to review a pull request of our own just to practice how to do reviews on a pull request.
 
 ![screenshot](https://rawcdn.githack.com/JbirdL86/Hello-World/6b13fe40173fca2382ccd5af586136d93779e768/index.html)
 
@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/JbirdL86/Hello-Microverse/67410abe5d2786e9eaa774109edb5c6a6838c148/index.html
+[Live Demo Link](https://rawcdn.githack.com/JbirdL86/Trial-Review/db44e45cb3bfa5a4144fff6f3d84ee79eb64df72/index.html)
 
 
 ## Authors
